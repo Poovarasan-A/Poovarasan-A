@@ -51,13 +51,46 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=Poovarasan-A&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Poovarasan-A&theme=dark&hide_border=false)
+### 🔹 Profile Overview
+![](https://github-readme-stats.vercel.app/api?username=Poovarasan-A&theme=dark&include_all_commits=true&count_private=true&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Poovarasan-A&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🔥 Contribution Streak
+![](https://github-readme-streak-stats.herokuapp.com/?user=Poovarasan-A&theme=dark)
+
+### 🗂️ Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Poovarasan-A&theme=dark&layout=compact)
+
+---
+
+## 🏆 Achievements & Impact
+
+### 🏅 GitHub Trophies  
+![](https://github-profile-trophy.vercel.app/?username=Poovarasan-A&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repositories  
+![](https://github-contributor-stats.vercel.app/api?username=Poovarasan-A&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 📈 Activity Breakdown (Live)
+
+| Metric | Badge |
+|------|------|
+| Total Commits | ![](https://img.shields.io/github/commit-activity/y/Poovarasan-A/Poovarasan-A?style=for-the-badge&color=4CAF50) |
+| Pull Requests | ![](https://img.shields.io/github/issues-pr/Poovarasan-A/Poovarasan-A?style=for-the-badge&color=blue) |
+| Issues Opened | ![](https://img.shields.io/github/issues/Poovarasan-A/Poovarasan-A?style=for-the-badge&color=orange) |
+| Stars Earned | ![](https://img.shields.io/github/stars/Poovarasan-A?style=for-the-badge&color=yellow) |
+| Followers | ![](https://img.shields.io/github/followers/Poovarasan-A?style=for-the-badge&color=purple) |
+
+---
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=Poovarasan-A&icon=0&color=12)
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Poovarasan-A&theme=dark&no-frame=false&no-bg=true&margin-w=4)
