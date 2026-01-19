@@ -61,21 +61,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Poovarasan-A&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## 🔝 Top Contributed Repositories (Add your real repos here)
-
-- **repo-name-1** — Short description of your contribution  
-- **repo-name-2** — What you worked on (UI, backend, bug fix, etc.)  
-- **repo-name-3** — Feature you built or improved  
-- **repo-name-4** — Your role in this project  
-- **repo-name-5** — Why this repo matters to you  
-
-*(If you want, I can auto-fill this if you share your top 5 repos.)*
-
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=Poovarasan-A&icon=0&color=12)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
